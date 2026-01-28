@@ -65,3 +65,18 @@ This project is under **active development** and is being built step-by-step wit
 
 ## 📂 Project Structure (Current)
 
+GTPL_UG/
+├── app/
+│ ├── src/
+│ │ ├── main/java/
+│ │ └── test/java/
+│ └── build.gradle
+│
+├── gradle/
+│ └── wrapper/
+│
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+├── gradle.properties
+└── README.md
